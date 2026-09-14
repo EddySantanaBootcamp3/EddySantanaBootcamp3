@@ -1,16 +1,26 @@
-## Hi there 👋
+# Eddy Santana
+## 📸 Fotógrafo profesional
+Apasionado por el arte y la pintura.
 
-<!--
-**EddySantanaBootcamp3/EddySantanaBootcamp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Gestor de redes sociales en el sector de la medicina estética.
 
-Here are some ideas to get you started:
+📚 Actualmente me formo en Administración Pública y Big Data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Creatividad, aprendizaje y tecnología forman parte de mi camino.
+
+## 💻 Tecnologías y herramientas
+
+- Git
+- GitHub
+- Visual Studio Code
+- HTML y CSS
+- Big Data (en formación)
+
+## 🚀 Proyectos
+
+- **Mi perfil de GitHub** — Creación y personalización de mi perfil utilizando Markdown, Git y GitHub.
+
+## 📫 Contacto
+
+- 📍 Málaga y Andalucía: **@yovoyaandalucia**
+- 📸 Fotografía masculina: **@revolutionphotoart**
