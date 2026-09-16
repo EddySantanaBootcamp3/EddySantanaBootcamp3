@@ -10,6 +10,8 @@ Apasionado por el arte y la pintura.
 
 ## 💻 Tecnologías y herramientas
 
+- Photoshop
+- Instagram
 - Git
 - GitHub
 - Visual Studio Code
