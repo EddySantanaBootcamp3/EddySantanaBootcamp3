@@ -1,28 +1,25 @@
-# Eddy Santana
-## 📸 Fotógrafo profesional
-Apasionado por el arte y la pintura.
+![Eddy Santana Batista](assets/portfolio-banner.svg)
 
-📱 Gestor de redes sociales en el sector de la medicina estética.
+# Eddy Santana Batista | Data Analyst
 
-📚 Actualmente me formo en Administración Pública y Big Data.
+Málaga, España · Disponible para oportunidades de análisis de datos y business intelligence.
 
-💡 Creatividad, aprendizaje y tecnología forman parte de mi camino.
+Transformo datos en información comprensible para apoyar decisiones. Mi enfoque combina calidad de datos, análisis exploratorio, visualización y modelos estadísticos, con especial interés en vivienda, economía y bienestar social.
 
-## 💻 Tecnologías y herramientas
+## Proyectos destacados
 
-- Photoshop
-- Instagram
-- Git
-- GitHub
-- Visual Studio Code
-- HTML y CSS
-- Big Data (en formación)
+| Caso de estudio | Competencias | Evidencia |
+|---|---|---|
+| [SPAIN 2035 · Málaga Housing Analytics](https://github.com/EddySantanaBootcamp3/SPAIN-2035-Malaga) | Regresión, validación temporal, mapas, BI | [Dashboard](https://spain-2035-malaga.streamlit.app/) |
+| [World Happiness Analytics](https://github.com/EddySantanaBootcamp3/eda-felicidad-mundial) | EDA, estadística, visualización interactiva | [Informe ejecutivo](https://github.com/EddySantanaBootcamp3/eda-felicidad-mundial/blob/main/reports/informe_ejecutivo_felicidad.pdf) |
+| [Python Analytics Toolkit](https://github.com/EddySantanaBootcamp3/Python-setup-Eddy) | Entornos reproducibles, Jupyter, fundamentos de EDA | Notebook Iris |
 
-## 🚀 Proyectos
+## Herramientas y formación
 
-- **Mi perfil de GitHub** — Creación y personalización de mi perfil utilizando Markdown, Git y GitHub.
+Python · pandas · NumPy · scikit-learn · Streamlit · Plotly · Bokeh · Git · GitHub · Jupyter
 
-## 📫 Contacto
+Formación en telecomunicaciones, electrónica e informática (FP superior) y programa de Data Analyst de 18 semanas. Interés en análisis socioeconómico, inteligencia territorial y comunicación visual.
 
-- 📍 Málaga y Andalucía: **@yovoyaandalucia**
-- 📸 Fotografía masculina: **@revolutionphotoart**
+## English
+
+Data analyst portfolio focused on reproducible analysis, data visualization and machine learning. Based in Málaga, Spain. Open to data analytics and business intelligence opportunities.
