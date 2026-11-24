@@ -1,4 +1,4 @@
-![Eddy Santana Batista](assets/portfolio-banner.svg)
+![Eddy Santana](assets/portfolio-banner.svg)
 
 # Eddy Santana Batista | Data Analyst
 

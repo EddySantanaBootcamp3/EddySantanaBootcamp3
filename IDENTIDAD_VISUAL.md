@@ -1,7 +1,5 @@
-# Mediterráneo de Datos
+# Cinematic Minimalism
 
-Paleta: #102A43 (marino), #145C63 (petróleo), #45B8AC (turquesa), #D2B47C (dorado), #F1F5F9 (blanco frío).
+Identidad oficial del portafolio de Eddy Santana Batista.
 
-Tipografía: Inter o Segoe UI, con alternativa sans-serif. Encabezados concisos; primero problema y resultados, luego metodología, reproducción, fuentes y limitaciones. Usar color como apoyo, nunca como único indicador. Evitar logos de empleadores, métricas no comprobadas y credenciales no verificadas.
-
-Cada caso de estudio incluye enlace a evidencia, autoría y resumen en inglés. Los ejercicios se identifican como fundamentos, no como experiencia laboral.
+Paleta: marfil #F8F7F4, piedra #E4E2DE, gris #969590, carbón #1A1A1A, champán #A38D68. Usar carbón para textos y champán como acento decorativo. Tipografía editorial Cormorant Garamond (alternativa Georgia); tipografía funcional Inter (alternativa Arial). Composición panorámica, espacios amplios, líneas finas y navegación discreta. Fotografías propias o con licencia verificable; gráficos reales, no decorativos que puedan confundirse con datos. Mantener contraste legible, texto alternativo, navegación por teclado y respeto a preferencias de movimiento reducido. Cada proyecto debe presentar problema, resultados, metodología, evidencia y limitaciones. No inventar métricas ni experiencia profesional.
