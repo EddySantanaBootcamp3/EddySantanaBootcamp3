@@ -1,10 +1,14 @@
 ![Eddy Santana](assets/portfolio-banner.svg)
 
-# Eddy Santana Batista | Data Analyst
+# Eddy Santana Batista | Data Analyst & Business Intelligence
 
-Málaga, España · Disponible para oportunidades de análisis de datos y business intelligence.
+**Data. Perspective. Insight.** · Málaga, España
 
-Transformo datos en información comprensible para apoyar decisiones. Mi enfoque combina calidad de datos, análisis exploratorio, visualización y modelos estadísticos, con especial interés en vivienda, economía y bienestar social.
+Analista de datos orientado a transformar información compleja en conocimiento útil para la toma de decisiones. Especialización en análisis exploratorio, inteligencia de negocio, visualización y modelos predictivos, con interés en economía, vivienda y bienestar social.
+
+Disponible para oportunidades de Data Analytics y Business Intelligence.
+
+[Explorar proyectos](#01--selected-projects) · [Competencias](#02--technical-expertise) · [Perfil profesional](#06--education--professional-development)
 
 ## 01 — Selected projects
 
@@ -50,12 +54,29 @@ Dominio de Excel, Power Query, Power BI y Looker; inteligencia de negocio, trans
 
 <table><tr><td align="center" width="110"><img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="36" height="36"><br><sub>Excel</sub></td><td align="center" width="110"><img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Power Query" width="36" height="36"><br><sub>Power Query</sub></td><td align="center" width="110"><img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="36" height="36"><br><sub>Power BI</sub></td><td align="center" width="110"><img src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker" width="36" height="36"><br><sub>Looker</sub></td></tr></table>
 
-## 04 — Education & professional development
+## 04 — Analytical methodology
+
+**01 / Understand** — Definir la pregunta de negocio, el alcance y las fuentes.
+
+**02 / Prepare** — Evaluar calidad, limpiar, transformar y documentar datos.
+
+**03 / Analyze** — Explorar patrones, contrastar hipótesis y construir modelos cuando aporten valor.
+
+**04 / Validate** — Comprobar generalización, reproducibilidad, limitaciones y supuestos.
+
+**05 / Communicate** — Convertir resultados en dashboards, indicadores e informes orientados a decisiones.
+
+## 05 — Selected project evidence
+
+- **SPAIN 2035:** [código y metodología](https://github.com/EddySantanaBootcamp3/SPAIN-2035-Malaga) · [aplicación interactiva](https://spain-2035-malaga.streamlit.app/).
+- **World Happiness:** [investigación reproducible](https://github.com/EddySantanaBootcamp3/eda-felicidad-mundial) · [informe ejecutivo](https://github.com/EddySantanaBootcamp3/eda-felicidad-mundial/blob/main/reports/informe_ejecutivo_felicidad.pdf).
+
+## 06 — Education & professional development
 
 FP superior en telecomunicaciones, electrónica e informática · Formación Data Analyst (18 semanas).
 
 Pensamiento analítico y crítico · Resolución de problemas · Comunicación asertiva · Trabajo en equipo · Adaptabilidad · Autonomía · Metodologías ágiles · Orientación a resultados.
 
-## 05 — English profile
+## 07 — English profile
 
-Data analyst portfolio focused on reproducible analysis, data visualization and machine learning. Based in Málaga, Spain. Open to data analytics and business intelligence opportunities.
+Data analyst based in Málaga, Spain, with a focus on business intelligence, reproducible exploratory analysis, statistical modelling and data visualization. Technical toolkit includes Python, SQL, Power BI, Power Query, Looker and Streamlit. Open to data analytics and business intelligence opportunities.
