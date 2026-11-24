@@ -12,7 +12,6 @@ Transformo datos en información comprensible para apoyar decisiones. Mi enfoque
 |---|---|---|
 | [SPAIN 2035 · Málaga Housing Analytics](https://github.com/EddySantanaBootcamp3/SPAIN-2035-Malaga) | Regresión, validación temporal, mapas, BI | [Dashboard](https://spain-2035-malaga.streamlit.app/) |
 | [World Happiness Analytics](https://github.com/EddySantanaBootcamp3/eda-felicidad-mundial) | EDA, estadística, visualización interactiva | [Informe ejecutivo](https://github.com/EddySantanaBootcamp3/eda-felicidad-mundial/blob/main/reports/informe_ejecutivo_felicidad.pdf) |
-| [Python Analytics Toolkit](https://github.com/EddySantanaBootcamp3/Python-setup-Eddy) | Entornos reproducibles, Jupyter, fundamentos de EDA | Notebook Iris |
 
 ## Herramientas y formación
 
