@@ -6,7 +6,9 @@
 
 Analista de datos orientado a transformar información compleja en conocimiento útil para la toma de decisiones. Especialización en análisis exploratorio, inteligencia de negocio, visualización y modelos predictivos, con interés en economía, vivienda y bienestar social.
 
-Disponible para oportunidades de Data Analytics y Business Intelligence.
+Disponible para oportunidades de Data Analytics, Big Data y Business Intelligence, con interés en su aplicación a la Administración Pública.
+
+[LinkedIn profesional](https://www.linkedin.com/in/eddy-santana-5419a4422) · [CV imprimible](docs/cv.html)
 
 [Explorar proyectos](#01--selected-projects) · [Competencias](#02--technical-expertise) · [Perfil profesional](#06--education--professional-development)
 
@@ -50,7 +52,7 @@ Tecnologías de trabajo y aprendizaje, agrupadas por especialidad. El nivel de p
 
 ### Business intelligence & spreadsheets
 
-Dominio de Excel, Power Query, Power BI y Looker; inteligencia de negocio, transformación de datos, indicadores y dashboards.
+Competencias en Excel, Power Query, Power BI y Looker; inteligencia de negocio, transformación de datos, indicadores y dashboards.
 
 <table><tr><td align="center" width="110"><img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="36" height="36"><br><sub>Excel</sub></td><td align="center" width="110"><img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Power Query" width="36" height="36"><br><sub>Power Query</sub></td><td align="center" width="110"><img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="36" height="36"><br><sub>Power BI</sub></td><td align="center" width="110"><img src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker" width="36" height="36"><br><sub>Looker</sub></td></tr></table>
 
